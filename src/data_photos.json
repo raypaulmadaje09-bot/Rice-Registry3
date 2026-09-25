@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hist-1",
+    "url": "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1920&q=80",
+    "name": "Silago River Basin Alluvial Rice Fields",
+    "timestamp": "Initial System Default",
+    "source": "preset"
+  },
+  {
+    "id": "hist-2",
+    "url": "https://images.unsplash.com/photo-1530507629858-e4977d30e9e0?auto=format&fit=crop&w=1920&q=80",
+    "name": "Irrigated Lowland Palay Terraces",
+    "timestamp": "Municipal Agriculture Archive",
+    "source": "preset"
+  }
+]
